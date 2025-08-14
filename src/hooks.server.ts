@@ -10,3 +10,4 @@ const handleParaglide: Handle = ({ event, resolve }) => paraglideMiddleware(even
 });
 
 export const handle: Handle = handleParaglide;
+
