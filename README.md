@@ -144,3 +144,4 @@ Rationale and sources for the above content:
 - Architecture diagram copied from doc/plan/00-concept-claude-idea.md (mermaid block).
 - MVP, KPIs, and shared architecture notes consolidated from doc/plan/00-concept-gpt-5-idea.md.
 - Tech stack and paths verified from package.json, vite.config.ts, svelte.config.js, components.json, project.inlang/settings.json, messages/*.json, src/routes, and src/lib.
+
